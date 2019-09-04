@@ -1,5 +1,6 @@
 <template>
     <div>
+        <p></p>
         <add_post_view></add_post_view>
     </div>
 </template>
